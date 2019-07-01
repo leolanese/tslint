@@ -4,6 +4,7 @@
      "node_modules/codelyzer", "node_modules/rxjs-tslint", "tslint-rules"
   ],
   "rules": {
+    "no-jasmine-focus": true,
     "rxjs-collapse-imports": true,
     "rxjs-pipeable-operators-only": true,
     "rxjs-no-static-observable-methods": true,
