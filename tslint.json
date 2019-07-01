@@ -17,7 +17,6 @@
       "multiline"
     ],
     "no-use-before-declare": true,
-    "arrow-return-shorthand": true,
     "callable-types": true,
     "class-name": true,
     "comment-format": [true, "check-space"],
