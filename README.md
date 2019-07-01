@@ -4,6 +4,7 @@ Shared TSLint rules to enforce a consistent code style for Angular development b
 
 ## Further information:<br>
 [codelyzer]https://github.com/mgechev/codelyzer
+[Introduction video]https://www.youtube.com/watch?v=bci-Z6nURgE - Automated Angular 2 Style Checking with Codelyzer - Minko Gechev
 
 [rxjs-tslint]https://github.com/ReactiveX/rxjs-tslint
 
